@@ -31,6 +31,10 @@
   display: flex;
   gap: 20px;
 }
+.link:hover {
+  transform: scale(1.1);
+  color: blue;
+}
 
 .user__icon {
   height: 30px;
@@ -87,6 +91,10 @@
 .input_container_location {
   width: 30%;
   border-right: 2px solid #e0e0e0;
+}
+.tomatologo {
+  background-color: black;
+  text-align: center;
 }
 
 @media only screen and (max-width: 600px) {

@@ -1,5 +1,6 @@
-# Zomato Landing Page 10622
+#CODSOFT2
+Task2
+
+# Tomato Landing Page
 
 This is a basic web development project built with HTML and CSS.
-
-This is New Setup Branch
